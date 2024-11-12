@@ -24,3 +24,4 @@ window.alert("Pop Up");
 Just load the not-paid.js file in ```<head>```
 
 This project is tested with [BrowserStack.](https://www.browserstack.com/)
+This project is tested with BrowserStack.
